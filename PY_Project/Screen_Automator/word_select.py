@@ -4,7 +4,7 @@ import time
 import requests
 
 # Gemini API key
-GEMINI_API_KEY = "AIzaSyA0a-fWg7NuRpZFoETwv79ih0Q7XostlMY"
+GEMINI_API_KEY = ""
 API_URL = "https://api.gemini.com/v1/chat"  # Replace this with the actual API endpoint
 
 def get_reply_from_gemini(copied_text):
